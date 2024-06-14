@@ -67,6 +67,7 @@ List of personal websites. Topics includes programming, technology, life experie
 - [Parimal Satyal](https://neustadt.fr/)
 - [PirateSoftware](https://develop.games/)
 - [Jamie Tanna](https://www.jvt.me/)
+- [Eric S. Raymond](http://www.catb.org/esr/)
 
 ## Other
 
