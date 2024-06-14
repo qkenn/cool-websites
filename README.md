@@ -64,3 +64,16 @@ List of personal websites. Topics includes programming, technology, life experie
 - [Stratechery by Ben Thompson](https://stratechery.com/)
 - [Derek Sivers](https://sive.rs/)
 - [Mark](https://atthis.link/)
+
+## Other
+
+Not personal websites. But still cool.
+
+- [ASCII Art Archive](https://www.asciiart.eu/)
+- [Web Design Museum](https://www.webdesignmuseum.org/)
+- [The Musical Time Machine](https://radiooooo.com/)
+- [lightyear.fm](https://www.lightyear.fm/)
+- [Low Tech Magazine](https://solar.lowtechmagazine.com/)
+- [End of the Internet](https://hmpg.net/)
+- [Coudhiker](https://cloudhiker.net/)
+- [Japanese Emoticons](https://kaomoji.ru/en/)
