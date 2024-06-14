@@ -66,6 +66,7 @@ List of personal websites. Topics includes programming, technology, life experie
 - [Mark](https://atthis.link/)
 - [Parimal Satyal](https://neustadt.fr/)
 - [PirateSoftware](https://develop.games/)
+- [Jamie Tanna](https://www.jvt.me/)
 
 ## Other
 
