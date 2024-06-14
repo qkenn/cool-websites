@@ -65,6 +65,7 @@ List of personal websites. Topics includes programming, technology, life experie
 - [Derek Sivers](https://sive.rs/)
 - [Mark](https://atthis.link/)
 - [Parimal Satyal](https://neustadt.fr/)
+- [PirateSoftware](https://develop.games/)
 
 ## Other
 
