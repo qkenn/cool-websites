@@ -68,6 +68,7 @@ List of personal websites. Topics includes programming, technology, life experie
 - [PirateSoftware](https://develop.games/)
 - [Jamie Tanna](https://www.jvt.me/)
 - [Eric S. Raymond](http://www.catb.org/esr/)
+- [Loren Sands-Ramshaw](https://lorensr.me/)
 
 ## Other
 
