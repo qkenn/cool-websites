@@ -71,6 +71,7 @@ List of personal websites. Topics includes programming, technology, life experie
 - [Loren Sands-Ramshaw](https://lorensr.me/)
 - [Ulrick](https://rike.dev/)
 - [Kenneth Reitz](https://kennethreitz.org/)
+- [Sindre Sorhus](https://sindresorhus.com/)
 
 ## Other
 
@@ -85,3 +86,4 @@ Not personal websites. But still cool.
 - [Coudhiker](https://cloudhiker.net/)
 - [Japanese Emoticons](https://kaomoji.ru/en/)
 - [ASCII Today](https://ascii.today/)
+- [pod.link](https://pod.link/)
